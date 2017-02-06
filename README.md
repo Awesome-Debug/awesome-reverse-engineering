@@ -12,4 +12,4 @@
 
 # 排版规范
 
-具体的翻译排版规范参看[FORMAT.MD](FORMAT.MD)
+具体的翻译排版规范参看[FORMAT.MD](FORMAT.md)
